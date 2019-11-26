@@ -46,6 +46,10 @@ li::before {
     margin-right: auto;
 }
 
+.noLink {
+    pointer-events: none;
+}
+
 /* header */
 
 .header {
